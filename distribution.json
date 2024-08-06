@@ -556,6 +556,16 @@
             "url": "https://raw.githubusercontent.com/mujigi/Mujigi-distro/main/servers/Mujigi-1.20.1/forgemods/required/XaerosWorldMap_1.38.8_Forge_1.20.jar",
             "MD5": "71a5756144551cadc7f128cc62f18d4c"
           }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 6037,
+            "url": "https://raw.githubusercontent.com/mujigi/Mujigi-distro/main/servers/Mujigi-1.20.1/files/options.txt",
+            "path": "options.txt"
+          }
         }
       ]
     }
